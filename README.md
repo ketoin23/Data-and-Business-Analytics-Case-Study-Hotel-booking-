@@ -1,6 +1,6 @@
 # Data-and-Business-Analytics-Case-Study-Hotel-booking
 
-**Introduction**
+**Introduction**\n
 Chosen a dataset of Hotel Booking Demand from Kaggle. This data set contains booking information for a city hotel and a resort hotel under the same company based in Portugal, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 The dataset contains 32 attributes/columns and 119,390 tuples/rows.
