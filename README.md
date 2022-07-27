@@ -1,1 +1,3 @@
-# Data-and-Business-Analytics-Case-Study-Hotel-bookin-
+# Data-and-Business-Analytics-Case-Study-Hotel-booking
+
+*Introduction*
